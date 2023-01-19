@@ -1,0 +1,26 @@
+{
+  "name": "sample-02",
+  "version": "1.0.0",
+  "description": "A simple application to learn how to use docker compose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "upgrade-interactive": "npm-check --update",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "npm-check": "^6.0.1"
+  }
+}

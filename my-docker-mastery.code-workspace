@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "sample-01"
+		},
+		{
+			"path": "../docker-mastery-for-nodejs/sample-01"
+		},
+		{
+			"path": "sample-02"
+		},
+		{
+			"path": "../docker-mastery-for-nodejs/sample-02"
+		}
+	],
+	"settings": {}
+}
